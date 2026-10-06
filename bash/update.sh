@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Script to run apt update and apt upgrade
+
 # Stop the script if any error
 set -e
 
