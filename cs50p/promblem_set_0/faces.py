@@ -1,5 +1,5 @@
 def main():
-    # Aske the user for text. Convert happy and sad emoticons to emojis, then print result
+    # Ask the user for text. Convert happy and sad emoticons to emojis, then print result
     emoticon_string = get_emoticon_string()
     converted_string = convert_string(emoticon_string)
     print_the_result(converted_string)
